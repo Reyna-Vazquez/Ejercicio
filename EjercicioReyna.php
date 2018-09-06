@@ -13,7 +13,7 @@ function reverseInt($n) {
 		else{
 		$alreves= strrev($n);
 		$resultado1= ltrim($alreves, "0");
-		echo "sol".$resultado1;
+		echo $resultado1;
 		}
 	}
 
